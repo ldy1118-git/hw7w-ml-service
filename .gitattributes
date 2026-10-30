@@ -1,0 +1,2 @@
+# 파일 바이트를 그대로 둔다 (index.html의 integrity 해시가 jquery·bootstrap 원본 바이트와 맞아야 함)
+* -text
